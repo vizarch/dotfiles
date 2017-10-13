@@ -24,6 +24,7 @@ set nowrap
 set showmode
 set ruler
 set backspace=indent,eol,start
+set paste " BECAOUSE PASTE NOT WORKING GOOD
 " Searching
 
 set incsearch           					" search as characters are entered
