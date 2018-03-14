@@ -20,7 +20,7 @@ set cursorline          " highlight current line
 set wildmenu            " visual autocomplete for command menu
 set lazyredraw          " redraw only when we need to
 set showmatch           " highlight matching [{()}]
-set nowrap
+set wrap
 set showmode
 set ruler
 set backspace=indent,eol,start
